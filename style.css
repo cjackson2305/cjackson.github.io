@@ -1,6 +1,6 @@
 <style>
-#ID {color:red;}
-.class {color:black;}
-.class2 {background-color:black;color:red;}
-.class2:hover {font-size:40px}
+#red {color:red;}
+.black {color:black;}
+.website {background-color:black;color:red;}
+.website:hover {font-size:40px}
 </style>
