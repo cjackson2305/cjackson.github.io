@@ -7,7 +7,7 @@
 .websitetwo:hover {font-size:40px;background-color:white;color:black}
 .website {background-color:black;color:red;}
 .website:hover {font-size:40px;background-color:white;color:black}
-.outside {font-size:60px;display: flex;}
+.outside {font-size:40px;display: flex;}
 
 .c {background-color:black;color:red;}
 .h {background-color:black;color:red;}
@@ -18,13 +18,13 @@
 .nn {background-color:black;color:red;}
 .eee {background-color:black;color:red;}
 
-.c:hover {font-size:70px;background-color:white;color:red;}
-.h:hover {font-size:70px;background-color:white;color:pink;}
-.e:hover {font-size:70px;background-color:white;color:blue;}
-.y:hover {font-size:70px;background-color:white;color:yellow;}
-.ee:hover {font-size:70px;background-color:white;color:lightgreen;}
-.n:hover {font-size:70px;background-color:white;color:lightblue;}
-.nn:hover {font-size:70px;background-color:white;color:hotpink;}
-.eee:hover {font-size:70px;background-color:white;color:teal;}
+.c:hover {font-size:60px;background-color:white;color:red;}
+.h:hover {font-size:60px;background-color:white;color:pink;}
+.e:hover {font-size:60px;background-color:white;color:blue;}
+.y:hover {font-size:60px;background-color:white;color:yellow;}
+.ee:hover {font-size:60px;background-color:white;color:lightgreen;}
+.n:hover {font-size:60px;background-color:white;color:lightblue;}
+.nn:hover {font-size:60px;background-color:white;color:hotpink;}
+.eee:hover {font-size:60px;background-color:white;color:teal;}
 </style>
  
