@@ -5,8 +5,9 @@
 .red:hover {font-size:20px}
 .websitetwo {background-color:red;color:black;}
 .websitetwo:hover {font-size:40px;background-color:white;color:black}
-.website {background-color:black;color:red;animation-name:slide;}
+.website {background-color:black;color:red;}
 .website:hover {font-size:40px;background-color:white;color:black}
+.table {animation:slide;}
 .outside {font-size:40px;display: flex;}
 
 .c {background-color:black;color:red;}
