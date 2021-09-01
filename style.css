@@ -9,22 +9,22 @@
 .website:hover {font-size:40px;background-color:white;color:black}
 .outside {font-size:20px;}
 
-.c {background-color:white;color:red;}
-.h {background-color:white;color:red;}
-.e {background-color:white;color:red;}
-.y {background-color:white;color:red;}
-.ee {background-color:white;color:red;}
-.n {background-color:white;color:red;}
-.nn {background-color:white;color:red;}
-.eee {background-color:white;color:red;}
+.c {background-color:black;color:red;}
+.h {background-color:black;color:red;}
+.e {background-color:black;color:red;}
+.y {background-color:black;color:red;}
+.ee {background-color:black;color:red;}
+.n {background-color:black;color:red;}
+.nn {background-color:black;color:red;}
+.eee {background-color:black;color:red;}
 
-.c:hover {font-size:50px;background-color:black;color:teal;}
-.h:hover {font-size:50px;background-color:black;color:pink;}
-.e:hover {font-size:50px;background-color:black;color:blue;}
-.y:hover {font-size:50px;background-color:black;color:;}
-.ee:hover {font-size:50px;background-color:black;color:;}
-.n:hover {font-size:50px;background-color:black;color:;}
-.nn:hover {font-size:50px;background-color:black;color:;}
-.eee:hover {font-size:50px;background-color:black;color:;}
+.c:hover {font-size:50px;background-color:white;color:red;}
+.h:hover {font-size:50px;background-color:white;color:pink;}
+.e:hover {font-size:50px;background-color:white;color:blue;}
+.y:hover {font-size:50px;background-color:white;color:yellow;}
+.ee:hover {font-size:50px;background-color:white;color:lightgreen;}
+.n:hover {font-size:50px;background-color:white;color:lightblue;}
+.nn:hover {font-size:50px;background-color:white;color:hotpink;}
+.eee:hover {font-size:50px;background-color:white;color:teal;}
 </style>
  
