@@ -7,7 +7,10 @@
 .websitetwo:hover {font-size:40px;background-color:white;color:black}
 .website {background-color:black;color:red;}
 .website:hover {font-size:40px;background-color:white;color:black}
-.outside {font-size:30px;}
+.outside {font-size:30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;}
 
 .c {background-color:black;color:red;}
 .h {background-color:black;color:red;}
