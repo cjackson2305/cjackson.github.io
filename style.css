@@ -1,9 +1,10 @@
 <style>
 #red {color:red;}
 .black {color:black;}
-.black:hover {font-size:30px;}
+.black:hover {font-size:30px}
 #red:hover {font-size:30px}
 .websitetwo {background-color:red;color:black;}
+.websitetwo:hover {font-size:40px;background-color:white;color:black}
 .website {background-color:black;color:red;}
 .website:hover {font-size:40px;background-color:white;color:black}
 </style>
