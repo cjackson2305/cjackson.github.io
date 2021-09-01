@@ -18,13 +18,13 @@
 .nn {background-color:white;color:red;}
 .eee {background-color:white;color:red;}
 
-.c:hover {font-size:50px;}
-.h:hover {font-size:50px;}
-.e:hover {font-size:50px;}
-.y:hover {font-size:50px;}
-.ee:hover {font-size:50px;}
-.n:hover {font-size:50px;}
-.nn:hover {font-size:50px;}
-.eee:hover {font-size:50px;}
+.c:hover {font-size:50px;background-color:black;color:teal;}
+.h:hover {font-size:50px;background-color:black;color:pink;}
+.e:hover {font-size:50px;background-color:black;color:blue;}
+.y:hover {font-size:50px;background-color:black;color:;}
+.ee:hover {font-size:50px;background-color:black;color:;}
+.n:hover {font-size:50px;background-color:black;color:;}
+.nn:hover {font-size:50px;background-color:black;color:;}
+.eee:hover {font-size:50px;background-color:black;color:;}
 </style>
  
