@@ -5,7 +5,7 @@
 .red:hover {font-size:20px}
 .websitetwo {background-color:red;color:black;}
 .websitetwo:hover {font-size:40px;background-color:white;color:black}
-.website {background-color:black;color:red;}
+.website {background-color:black;color:red;float:right;}
 .website:hover {font-size:40px;background-color:white;color:black}
 .outside {font-size:40px;display: flex;}
 
@@ -26,5 +26,6 @@
 .n:hover {font-size:60px;background-color:white;color:lightblue;}
 .nn:hover {font-size:60px;background-color:white;color:hotpink;}
 .eee:hover {font-size:60px;background-color:white;color:teal;}
+
 </style>
  
